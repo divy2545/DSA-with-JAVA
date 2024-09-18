@@ -41,7 +41,8 @@ package Matrix;
 
 
 
-// => optimized approach
+//           =>    optimized approach
+
 // time complexity cannot be reduced in optimized approach but space complexity can be reduced to O(1) if we do not use arrays
 
 // for that use the first row and first coloumn of the matrix as row and column arrays for storing the index of the element of the matrix where zero occurs..

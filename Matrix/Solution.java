@@ -154,5 +154,44 @@ package Matrix;
 
 
 //============================================================================================================
-//
+//                              54.   Spiral Matrix
 //===========================================================================================================
+
+
+// class Solution {
+//     public List<Integer> spiralOrder(int[][] matrix) {
+//         List<Integer> l1= new ArrayList<>();
+//         int m=matrix.length;
+//         int n=matrix[0].length;
+//         int rowtop=0,colright=n-1;
+//         int rowbottom=m-1,colleft=0;
+//         while(rowtop<=rowbottom && colleft<=colright){
+//         for(int i=colleft;i<=colright;i++){
+//              l1.add(matrix[rowtop][i]);
+//         }
+//         rowtop++;
+//         for(int j=rowtop;j<=rowbottom;j++){
+//             l1.add(matrix[j][colright]);
+//         }
+//         colright--;
+//         if(rowtop<=rowbottom){
+//         for(int i=colright;i>=colleft;i--){
+//             l1.add(matrix[rowbottom][i]);
+//         }
+//         rowbottom--;
+//         }
+//         if(colleft<=colright){
+//         for(int j=rowbottom;j>=rowtop;j--){
+//             l1.add(matrix[j][colleft]);
+//         }
+//         colleft++;
+//         }
+//         }
+//         return l1;
+//     }
+// }
+
+
+// time complexity- O(m*n)
+// space complexity- O(1)
+

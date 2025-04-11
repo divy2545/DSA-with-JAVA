@@ -1,37 +1,42 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int m = s.length(), n = t.length();
-        int cnt = 0, sIdx = -1;
-        int left = 0, right = 0;
-        int min = Integer.MAX_VALUE;
+       int[] hash = new int[256];
+       int m = s.length();
+       int n = t.length();
+       for(int i=0; i<n; i++){
+        hash[t.charAt(i)]++;
+       }
 
-        int[] hash = new int[256];
-        for(int i=0; i<n; i++){
-            hash[t.charAt(i)]++;
-        }
+       int minLen = Integer.MAX_VALUE;
+       int startIdx = -1;
+       int left = 0, right =0;
+       int cnt = 0;
 
-        while(right < m){
+       while(right < m){
+          char ch = s.charAt(right);
 
-            if(hash[s.charAt(right)]>0){
-                cnt++;
+          if(hash[ch]>0){
+             cnt++;
+          }
+          hash[ch]--;
+
+          while( cnt == n){
+            if(right-left+1 < minLen){
+                minLen = right-left+1;
+                startIdx = left; 
             }
-            hash[s.charAt(right)]--;
+            char leftChar = s.charAt(left);
+            hash[leftChar]++;
 
-            while(cnt == n){
-                if(right-left+1 < min){
-                    min = right-left+1;
-                    sIdx = left;
-                }
-                hash[s.charAt(left)]++; 
-                
-                if(hash[s.charAt(left)]>0) cnt--;
-                
-                left++;
-            }
+            if(hash[leftChar]>0) cnt--;
 
-            right++;
-        }
+            left++;
+          }
 
-        return sIdx == -1? "" : s.substring(sIdx, sIdx+min);
+          right++;
+       }
+
+       return startIdx == -1 ? "" : s.substring(startIdx, startIdx+minLen); 
+
     }
 }

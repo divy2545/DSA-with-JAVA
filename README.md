@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/divy2545/DSA-with-JAVA/tree/master/0238-product-of-array-except-self) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/divy2545/DSA-with-JAVA/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
 | ------- |

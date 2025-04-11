@@ -16,15 +16,16 @@ class Solution {
                 cnt++;
             }
             hash[s.charAt(right)]--;
+
             while(cnt == n){
                 if(right-left+1 < min){
                     min = right-left+1;
                     sIdx = left;
                 }
-                hash[s.charAt(left)]++;
-                if(hash[s.charAt(left)]>0){
-                    cnt--;
-                }
+                hash[s.charAt(left)]++; 
+                
+                if(hash[s.charAt(left)]>0) cnt--;
+                
                 left++;
             }
 

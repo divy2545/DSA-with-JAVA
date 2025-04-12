@@ -37,4 +37,16 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/divy2545/DSA-with-JAVA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/divy2545/DSA-with-JAVA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/divy2545/DSA-with-JAVA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

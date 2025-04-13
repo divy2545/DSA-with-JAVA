@@ -40,11 +40,13 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/divy2545/DSA-with-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divy2545/DSA-with-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divy2545/DSA-with-JAVA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/divy2545/DSA-with-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/divy2545/DSA-with-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divy2545/DSA-with-JAVA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue

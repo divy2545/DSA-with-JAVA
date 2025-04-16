@@ -9,6 +9,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/divy2545/DSA-with-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0503-next-greater-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | [0225-implement-stack-using-queues](https://github.com/divy2545/DSA-with-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divy2545/DSA-with-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -71,4 +73,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

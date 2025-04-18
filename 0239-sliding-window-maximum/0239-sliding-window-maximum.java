@@ -11,7 +11,7 @@ class Solution {
                 dq.removeFirst();
             }
 
-            while(!dq.isEmpty() && nums[dq.peekLast()] < nums[i]){
+            while(!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]){
                 dq.removeLast();
             }
 

@@ -29,24 +29,28 @@ class GFG {
 class Solution {
     public int celebrity(int mat[][]) {
         int n = mat.length;
-        int[] knowMe = new int[n];
-        int[] iKnow = new int[n];
-        for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
-                if(mat[i][j]==1){
-                knowMe[j]++;
-                iKnow[i]++;
-                }
+       
+       int top = 0, down = n-1;
+       
+        while(top<down){
+            if(mat[top][down] == 1) top++;
+            else if(mat[down][top] == 1) down --;
+            else{
+                top++;
+                down--;
             }
         }
         
+        if(top>down) return -1;
+        
         for(int i=0; i<n; i++){
-            if(knowMe[i]==n && iKnow[i]==1){
-                return i;
+            if((mat[top][i]==0 || i == top) && mat[i][top]==1){
+                
             }
+            else return -1;
         }
         
-        return -1;
+        return top;
         
     }
 }

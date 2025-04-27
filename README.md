@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divy2545/DSA-with-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/divy2545/DSA-with-JAVA/tree/master/0146-lru-cache) |

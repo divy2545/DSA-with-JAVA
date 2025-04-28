@@ -24,6 +24,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/divy2545/DSA-with-JAVA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0239-sliding-window-maximum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0907-koko-eating-bananas](https://github.com/divy2545/DSA-with-JAVA/tree/master/0907-koko-eating-bananas) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 | [0303-range-sum-query-immutable](https://github.com/divy2545/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
 ## String
 |  |

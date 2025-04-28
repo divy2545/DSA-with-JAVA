@@ -3,12 +3,14 @@ class Solution {
         int n = bloomDay.length;
 
         int maxEle = Integer.MIN_VALUE;
+        int minEle = Integer.MAX_VALUE;
 
         for (int num : bloomDay) {
             maxEle = Math.max(maxEle, num);
+            minEle = Math.min(minEle, num);
         }
 
-        int low = 0, high = maxEle;
+        int low = minEle, high = maxEle;
         int ans = -1;
 
         while (low <= high) {

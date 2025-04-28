@@ -28,19 +28,19 @@ class Solution {
     }
 
     public boolean makeBouquets(int[] bd, int m, int k, int day) {
-        int adj = 0;
-        int bq = 0;
+        int consecutive_count = 0;
+        int bqCount = 0;
         for (int i = 0; i < bd.length; i++) {
             if (bd[i] <= day) {
-                adj++;
-                if (adj == k) {
-                    bq++;
-                    adj = 0;
+                consecutive_count++;
+                if (consecutive_count == k) {
+                    bqCount++;
+                    consecutive_count = 0;
                 }
             } else {
-                adj = 0;
+                consecutive_count = 0;
             }
         }
-        return bq >= m;
+        return bqCount >= m;
     }
 }

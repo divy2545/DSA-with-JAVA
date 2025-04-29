@@ -31,6 +31,8 @@ class Solution {
 
         for(int i=0; i<nums.length; i++){
            sum += (nums[i] + divisor -1)/divisor; // optimised way to calculate ceiling of a value
+
+           if(sum>threshold) return false;
         }
         
         return sum <= threshold;

@@ -30,7 +30,7 @@ class Solution {
         int sum = 0;
 
         for(int i=0; i<nums.length; i++){
-           sum += (int)Math.ceil((double)nums[i]/(double)divisor);
+           sum += (nums[i] + divisor -1)/divisor; // optimised way to calculate ceiling of a value
         }
         
         return sum <= threshold;

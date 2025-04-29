@@ -9,8 +9,8 @@ class Solution {
         }
 
         int countMax = 0;
-        int left = 0;
-        for (int right = 0; right < n; right++) {
+        int left = 0, right=0;
+        while(right<n){
             if (nums[right] == maxNum) {
                 countMax++;
             }
@@ -22,6 +22,7 @@ class Solution {
                 }
                 left++;
             }
+            right++;
         }
 
         return ans;

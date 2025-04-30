@@ -14,8 +14,8 @@ class Solution {
             }
             }
 
-        
+        return right+1+k;
 
-        return (left + k);
+        // return (left + k);
     }
 }

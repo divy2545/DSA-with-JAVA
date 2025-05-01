@@ -1,6 +1,5 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int n = nums.length;
 
         int res = 0;
 

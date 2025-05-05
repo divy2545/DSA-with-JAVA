@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divy2545/DSA-with-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/divy2545/DSA-with-JAVA/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/divy2545/DSA-with-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0239-sliding-window-maximum) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/divy2545/DSA-with-JAVA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |

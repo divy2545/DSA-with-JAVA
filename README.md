@@ -33,6 +33,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divy2545/DSA-with-JAVA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1646-kth-missing-positive-number) |
+| [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/divy2545/DSA-with-JAVA/tree/master/0735-asteroid-collision) |
+| [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 ## Greedy
 |  |
 | ------- |

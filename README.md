@@ -56,6 +56,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0402-remove-k-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +174,7 @@
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

@@ -14,9 +14,9 @@
  * }
  */
 class Solution {
-    public static void preorder(TreeNode root, List<Integer> ans){
+    public static void preorder(TreeNode root, List<Integer> ans ){
         if(root == null) return;
-        
+
         ans.add(root.val);
         preorder(root.left, ans);
         preorder(root.right, ans);
@@ -25,8 +25,6 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
 
         preorder(root, ans);
-
         return ans;
-
     }
 }

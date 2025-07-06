@@ -1,39 +1,41 @@
-// ================ Iterative Code =============
+// ================ Recursive Code =============
 
 class Solution {
     public TreeNode invertTree(TreeNode root) {
         if(root==null) return null;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
 
-        while(!q.isEmpty()){
-            TreeNode curr = q.poll();
-            int n = q.size();
+        TreeNode temp = root.left;
+         root.left = root.right;
+         root.right =temp;
 
-                TreeNode temp = curr.left;
-                curr.left = curr.right;
-                curr.right =temp;
+         invertTree(root.left);
+         invertTree(root.right);
 
-                if(curr.left!=null) q.offer(curr.left);
-                if(curr.right!=null )q.offer(curr.right);
-        }
         return root;
     }
 }
 
-// ================ Recursive Code =============
+
+// ================ Iterative Code =============
 
 // class Solution {
 //     public TreeNode invertTree(TreeNode root) {
 //         if(root==null) return null;
+//         Queue<TreeNode> q = new LinkedList<>();
+//         q.offer(root);
 
-//         TreeNode temp = root.left;
-//          root.left = root.right;
-//          root.right =temp;
+//         while(!q.isEmpty()){
+//             TreeNode curr = q.poll();
+//             int n = q.size();
 
-//          invertTree(root.left);
-//          invertTree(root.right);
+//                 TreeNode temp = curr.left;
+//                 curr.left = curr.right;
+//                 curr.right =temp;
 
+//                 if(curr.left!=null) q.offer(curr.left);
+//                 if(curr.right!=null )q.offer(curr.right);
+//         }
 //         return root;
 //     }
 // }
+

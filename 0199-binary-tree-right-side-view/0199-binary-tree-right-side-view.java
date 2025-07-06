@@ -1,3 +1,5 @@
+//================ ITERATIVE APPROACH ========================================
+
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         
@@ -15,7 +17,6 @@ class Solution {
                     if(size-1 ==i){
                         ans.add(curr.val);
                     }
-
 
                     if(curr.left!=null) q.offer(curr.left);
                     if(curr.right!=null) q.offer(curr.right);

@@ -25,11 +25,7 @@ class Solution {
     public void helper(TreeNode root, int depth){
           if(root == null) return;
 
-          if(root.left == null && root.right == null){
-             if(depth > maxdepth){
-                maxdepth = depth;
-             }
-          }
+          maxdepth = Math.max(maxdepth,depth); 
 
           helper(root.left,depth+1);
           helper(root.right, depth+1);

@@ -233,6 +233,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -257,4 +260,5 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->

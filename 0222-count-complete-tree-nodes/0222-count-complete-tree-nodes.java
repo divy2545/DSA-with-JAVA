@@ -14,22 +14,16 @@
  * }
  */
 class Solution {
+    int cnt = 0;
     public int countNodes(TreeNode root) {
         if(root == null) return 0;
-        int cnt = 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        while(!q.isEmpty()){
-            int n = q.size();
-            for(int i=0; i<n; i++){
-                 TreeNode curr = q.poll();
-                cnt++;
-                
-                if(curr.left !=null) q.offer(curr.left);
-                if(curr.right !=null) q.offer(curr.right);
-                
-            }
-        }
+        
+        cnt++;
+        countNodes(root.left);
+        // cnt++;
+        countNodes(root.right);
+        
         return cnt;
+        
     }
 }

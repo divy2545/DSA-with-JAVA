@@ -20,7 +20,7 @@ class Solution {
         
         cnt++;
         countNodes(root.left);
-        // cnt++;
+        
         countNodes(root.right);
         
         return cnt;

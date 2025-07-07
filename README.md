@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0907-koko-eating-bananas](https://github.com/divy2545/DSA-with-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divy2545/DSA-with-JAVA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divy2545/DSA-with-JAVA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -237,6 +238,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/divy2545/DSA-with-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0226-invert-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
@@ -264,6 +266,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/divy2545/DSA-with-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0226-invert-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 ## Enumeration
@@ -280,4 +283,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/divy2545/DSA-with-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0226-invert-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

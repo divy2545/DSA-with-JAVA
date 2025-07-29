@@ -1,10 +1,14 @@
 class Solution {
-    public int singleNumber(int[] arr) {
-        int ones = 0, twos = 0;
-        for(int num : arr) {
-            ones = (ones ^ num)& ~twos;
-            twos = (twos ^ num)& ~ones;
+    public int singleNumber(int[] nums) {
+        Arrays.sort(nums);
+        int idx = 1;
+        for(int i=0;i<nums.length-1;i++){
+           if(nums[i]==nums[i+1]){
+                i=i+2;
+           }else{
+            return nums[i];
+           }
         }
-        return ones;
+        return nums[nums.length-1];
     }
 }

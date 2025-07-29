@@ -1,23 +1,30 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int[] arr = new int[26];
-        Arrays.fill(arr, 0);
+        int n = s.length();
+        int m = t.length();
+        char ans = ' ';
 
-        for(int i=0; i<t.length(); i++){
-            arr[t.charAt(i)-'a']++;
+        int[] letter = new int[26];
+        
+
+        for(int i=0;i<n;i++){
+            int ch = s.charAt(i) - 'a';
+            letter[ch]++;
         }
 
-        for(int i=0; i<s.length(); i++){
-            arr[s.charAt(i)-'a']--;
-        }
-
-        for(int i=0; i<26; i++){
-            if(arr[i]==1){
-                return (char)(i + 'a');
+        for(int i=0;i<m;i++){
+            int ch = t.charAt(i)-'a';
+            System.out.println(ch);
+            if(letter[ch]>0){
+                letter[ch]--;
+                continue;
+            } 
+            if(letter[ch]==0){
+                // ans = (char)ch;
+                // break;
+                return (char)(ch+'a');
             }
         }
-
        return ' ';
-
     }
 }

@@ -104,6 +104,7 @@
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
+| [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Tree

@@ -65,6 +65,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
@@ -83,6 +84,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@
 | [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
@@ -325,4 +328,5 @@
 | [0137-single-number-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
+| [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

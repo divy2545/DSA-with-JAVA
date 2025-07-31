@@ -49,6 +49,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
+| [2478-longest-nice-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divy2545/DSA-with-JAVA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2551-apply-operations-to-an-array) |
@@ -87,6 +88,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divy2545/DSA-with-JAVA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/divy2545/DSA-with-JAVA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Counting
@@ -350,6 +352,7 @@
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
+| [2478-longest-nice-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divy2545/DSA-with-JAVA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser

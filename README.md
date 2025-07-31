@@ -67,6 +67,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -130,6 +131,7 @@
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divy2545/DSA-with-JAVA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |

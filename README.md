@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/divy2545/DSA-with-JAVA/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/divy2545/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/divy2545/DSA-with-JAVA/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -217,6 +218,7 @@
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -346,6 +348,7 @@
 | [0137-single-number-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divy2545/DSA-with-JAVA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |

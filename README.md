@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divy2545/DSA-with-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/divy2545/DSA-with-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0137-single-number-ii) |
@@ -224,6 +225,7 @@
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |

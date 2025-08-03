@@ -1,18 +1,21 @@
 class Solution {
     public int splitNum(int num) {
-        String str = num + "";
-        char[] charArray = str.toCharArray();
-        Arrays.sort(charArray);
-        String num1 = "";
-        for(int i=0; i<charArray.length; i+=2){
-            num1 += charArray[i];
-        }
-        String num2 = "";
-        for(int i=1; i<charArray.length; i+=2){
-            num2 += charArray[i];
+        char[] arr = String.valueOf(num).toCharArray();
+        Arrays.sort(arr);
+
+        StringBuilder str1 = new StringBuilder();
+        StringBuilder str2 = new StringBuilder();
+
+        for(int i=0; i<arr.length; i++){
+            if(i%2==0){
+                str1.append(arr[i]);
+            }
+            else{
+                str2.append(arr[i]);
+            }
         }
 
-        return Integer.parseInt(num1) + Integer.parseInt(num2);
+        return Integer.parseInt(str1.toString()) + Integer.parseInt(str2.toString());
 
     }
 }

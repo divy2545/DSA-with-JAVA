@@ -202,6 +202,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
@@ -273,6 +274,7 @@
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/divy2545/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divy2545/DSA-with-JAVA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Matrix
@@ -299,6 +301,7 @@
 | [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |
 ## Tree
 |  |

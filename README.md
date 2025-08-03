@@ -52,6 +52,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/divy2545/DSA-with-JAVA/tree/master/2476-check-distances-between-same-letters) |
@@ -95,6 +96,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divy2545/DSA-with-JAVA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divy2545/DSA-with-JAVA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/2478-longest-nice-subarray) |
@@ -120,6 +122,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divy2545/DSA-with-JAVA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1646-kth-missing-positive-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Prefix Sum
@@ -130,6 +133,7 @@
 | [0303-range-sum-query-immutable](https://github.com/divy2545/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
 ## String

@@ -67,6 +67,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divy2545/DSA-with-JAVA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/divy2545/DSA-with-JAVA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/divy2545/DSA-with-JAVA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [0735-asteroid-collision](https://github.com/divy2545/DSA-with-JAVA/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2551-apply-operations-to-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -405,4 +408,12 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

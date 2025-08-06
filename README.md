@@ -69,6 +69,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/divy2545/DSA-with-JAVA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/divy2545/DSA-with-JAVA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -415,8 +417,10 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->

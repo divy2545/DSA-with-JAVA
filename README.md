@@ -215,6 +215,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/divy2545/DSA-with-JAVA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/divy2545/DSA-with-JAVA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/divy2545/DSA-with-JAVA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |
 ## Monotonic Stack
 |  |
 | ------- |

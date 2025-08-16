@@ -222,6 +222,7 @@
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
@@ -301,6 +302,7 @@
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/divy2545/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |

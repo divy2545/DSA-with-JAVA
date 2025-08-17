@@ -5,7 +5,8 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
 
-        List<Long> list = new ArrayList<>();
+        PriorityQueue<Long> minheap = new PriorityQueue<>();
+
 
         while(!q.isEmpty()){
             int size = q.size();
@@ -20,14 +21,13 @@ class Solution {
 
             }
 
-            list.add(sum);
+            minheap.offer(sum);
+            if(minheap.size()>k){
+                minheap.poll();
+            }
         }
 
-        if(list.size()<k) return -1;
-
-        Collections.sort(list);
-
-        return list.get(list.size()-k);
+        return minheap.size() < k? -1: minheap.peek();
 
 
     }

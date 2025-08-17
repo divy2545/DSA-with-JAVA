@@ -15,6 +15,7 @@
  */
 class Solution {
     public int maxLevelSum(TreeNode root) {
+        if(root== null) return 0;
         int ans = 1;
         int level = 1;
         int maxSum = root.val;

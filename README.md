@@ -103,6 +103,7 @@
 | [0076-minimum-window-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divy2545/DSA-with-JAVA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -219,6 +220,7 @@
 | [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/divy2545/DSA-with-JAVA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/divy2545/DSA-with-JAVA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -267,6 +269,7 @@
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0826-soup-servings](https://github.com/divy2545/DSA-with-JAVA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
@@ -453,6 +456,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/divy2545/DSA-with-JAVA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 ## Divide and Conquer
 |  |
 | ------- |

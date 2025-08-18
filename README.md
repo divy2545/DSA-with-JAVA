@@ -28,6 +28,7 @@
 | [0496-next-greater-element-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/divy2545/DSA-with-JAVA/tree/master/0735-asteroid-collision) |
 | [0841-shortest-distance-to-a-character](https://github.com/divy2545/DSA-with-JAVA/tree/master/0841-shortest-distance-to-a-character) |
@@ -220,6 +221,7 @@
 | [0231-power-of-two](https://github.com/divy2545/DSA-with-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/divy2545/DSA-with-JAVA/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/divy2545/DSA-with-JAVA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
@@ -448,6 +450,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 ## Bitmask

@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divy2545/DSA-with-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -338,6 +339,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0047-permutations-ii) |
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
@@ -462,6 +464,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0047-permutations-ii) |
 | [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |

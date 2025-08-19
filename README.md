@@ -386,6 +386,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
@@ -430,6 +431,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
@@ -519,4 +521,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

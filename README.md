@@ -19,6 +19,7 @@
 | [0135-candy](https://github.com/divy2545/DSA-with-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/divy2545/DSA-with-JAVA/tree/master/0238-product-of-array-except-self) |
@@ -286,6 +287,7 @@
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/divy2545/DSA-with-JAVA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |

@@ -47,6 +47,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divy2545/DSA-with-JAVA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/divy2545/DSA-with-JAVA/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divy2545/DSA-with-JAVA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -296,6 +297,7 @@
 | [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/divy2545/DSA-with-JAVA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Data Stream
 |  |

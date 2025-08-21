@@ -61,6 +61,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -101,6 +102,7 @@
 | [1933-number-of-different-integers-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0239-sliding-window-maximum) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -374,6 +377,7 @@
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |

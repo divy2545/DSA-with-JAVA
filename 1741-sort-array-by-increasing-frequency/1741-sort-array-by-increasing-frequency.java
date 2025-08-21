@@ -5,20 +5,27 @@ class Solution {
             mp.put(num, mp.getOrDefault(num, 0) + 1);
         }
 
-        int[] ans = new int[nums.length];
-
-        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(mp.entrySet());
-        list.sort((a, b) -> {
-            if (a.getValue() == b.getValue()) {
-                return b.getKey() - a.getKey();
+        // PriorityQueue with custom comparator
+        PriorityQueue<Map.Entry<Integer, Integer>> pq = new PriorityQueue<>(
+            (a, b) -> {
+                if (a.getValue().equals(b.getValue())) {
+                    return b.getKey() - a.getKey(); // value descending if freq equal
+                }
+                return a.getValue() - b.getValue(); // freq ascending
             }
-            return a.getValue() - b.getValue();
-        });
+        );
 
+        // Add all entries to the heap
+        pq.addAll(mp.entrySet());
+
+        int[] ans = new int[nums.length];
         int k = 0;
-        for (int i = 0; i < list.size(); i++) {
-            for (int j = 0; j < list.get(i).getValue(); j++) {
-                ans[k++] = list.get(i).getKey();
+
+        // Poll from heap and expand
+        while (!pq.isEmpty()) {
+            Map.Entry<Integer, Integer> entry = pq.poll();
+            for (int i = 0; i < entry.getValue(); i++) {
+                ans[k++] = entry.getKey();
             }
         }
 

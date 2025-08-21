@@ -72,6 +72,7 @@
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -115,6 +116,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
@@ -157,6 +159,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |

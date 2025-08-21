@@ -69,6 +69,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
@@ -107,6 +108,7 @@
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/divy2545/DSA-with-JAVA/tree/master/2476-check-distances-between-same-letters) |
@@ -145,6 +147,7 @@
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -196,6 +199,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divy2545/DSA-with-JAVA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2476-check-distances-between-same-letters](https://github.com/divy2545/DSA-with-JAVA/tree/master/2476-check-distances-between-same-letters) |

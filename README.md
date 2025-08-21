@@ -53,6 +53,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divy2545/DSA-with-JAVA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divy2545/DSA-with-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
@@ -213,6 +214,7 @@
 | [0735-asteroid-collision](https://github.com/divy2545/DSA-with-JAVA/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/divy2545/DSA-with-JAVA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
@@ -268,6 +270,7 @@
 | [0503-next-greater-element-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/divy2545/DSA-with-JAVA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -300,6 +303,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -343,6 +347,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/divy2545/DSA-with-JAVA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Data Stream
 |  |

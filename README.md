@@ -87,6 +87,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divy2545/DSA-with-JAVA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2551-apply-operations-to-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/divy2545/DSA-with-JAVA/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
@@ -131,6 +132,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/divy2545/DSA-with-JAVA/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
@@ -173,6 +175,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/2486-most-frequent-even-element) |
+| [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -233,6 +236,7 @@
 | [2476-check-distances-between-same-letters](https://github.com/divy2545/DSA-with-JAVA/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/divy2545/DSA-with-JAVA/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -544,6 +548,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divy2545/DSA-with-JAVA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2529-range-product-queries-of-powers) |
+| [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
 ## Brainteaser
 |  |
 | ------- |

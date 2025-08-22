@@ -16,11 +16,12 @@ class Solution {
             }
         
 
-       for(Map.Entry<Character, Integer> entry :mp.entrySet()){
-        for(int i=0; i<entry.getValue(); i++){
-            sb.append(entry.getKey());
+       for(char c: mp.keySet()) {
+            int freq = mp.get(c);
+            for(int i = 0; i < freq; i++) {
+                sb.append(c);
+            }
         }
-       }
 
        return sb.toString();
     }

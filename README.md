@@ -60,6 +60,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divy2545/DSA-with-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -117,6 +118,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -167,6 +169,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -223,6 +226,7 @@
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divy2545/DSA-with-JAVA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -542,6 +546,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/2478-longest-nice-subarray) |

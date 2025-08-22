@@ -10,15 +10,15 @@ class Solution {
         if(mp.isEmpty()) return -1;
 
         int ans = -1;
-        int max = Integer.MIN_VALUE;
+        int maxFreq = Integer.MIN_VALUE;
 
-        for(int num: mp.keySet()){
-            if(mp.get(num) > max){
-                max = mp.get(num);
+        for (Map.Entry<Integer, Integer> entry : mp.entrySet()) {
+            int num = entry.getKey();
+            int freq = entry.getValue();
+
+            if (freq > maxFreq || (freq == maxFreq && num < ans)) {
+                maxFreq = freq;
                 ans = num;
-            }
-            else if(mp.get(num) == max){
-                if(ans > num) ans = num;
             }
         }
 

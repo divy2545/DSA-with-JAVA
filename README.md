@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/divy2545/DSA-with-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -561,6 +562,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/divy2545/DSA-with-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0047-permutations-ii) |
 | [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |

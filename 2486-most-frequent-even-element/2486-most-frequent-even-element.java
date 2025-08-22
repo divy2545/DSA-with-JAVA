@@ -7,6 +7,8 @@ class Solution {
             }
         }
 
+        if(mp.isEmpty()) return -1;
+
         int ans = -1;
         int max = Integer.MIN_VALUE;
 

@@ -414,6 +414,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/divy2545/DSA-with-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/divy2545/DSA-with-JAVA/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |

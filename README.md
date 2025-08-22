@@ -108,6 +108,7 @@
 | [0496-next-greater-element-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
+| [0807-custom-sort-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -208,6 +209,7 @@
 | [0402-remove-k-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
+| [0807-custom-sort-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0807-custom-sort-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/divy2545/DSA-with-JAVA/tree/master/0841-shortest-distance-to-a-character) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divy2545/DSA-with-JAVA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -409,6 +411,7 @@
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
+| [0807-custom-sort-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |

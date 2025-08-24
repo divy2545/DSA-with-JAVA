@@ -243,6 +243,7 @@
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/divy2545/DSA-with-JAVA/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
+| [3379-score-of-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3379-score-of-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack

@@ -101,6 +101,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/divy2545/DSA-with-JAVA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/divy2545/DSA-with-JAVA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/divy2545/DSA-with-JAVA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -365,6 +366,7 @@
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/divy2545/DSA-with-JAVA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/divy2545/DSA-with-JAVA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/divy2545/DSA-with-JAVA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/divy2545/DSA-with-JAVA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Data Stream
 |  |
 | ------- |
@@ -585,6 +588,7 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/divy2545/DSA-with-JAVA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Segment Tree
 |  |
 | ------- |

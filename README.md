@@ -64,6 +64,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divy2545/DSA-with-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divy2545/DSA-with-JAVA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -304,6 +305,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
@@ -530,6 +532,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -564,6 +567,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/2478-longest-nice-subarray) |
@@ -583,6 +587,7 @@
 | [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bitmask
 |  |
 | ------- |
@@ -632,4 +637,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

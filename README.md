@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/divy2545/DSA-with-JAVA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/divy2545/DSA-with-JAVA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/divy2545/DSA-with-JAVA/tree/master/0146-lru-cache) |
@@ -412,6 +414,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/divy2545/DSA-with-JAVA/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/divy2545/DSA-with-JAVA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/divy2545/DSA-with-JAVA/tree/master/0498-diagonal-traverse) |

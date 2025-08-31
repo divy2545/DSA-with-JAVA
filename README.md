@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/divy2545/DSA-with-JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/divy2545/DSA-with-JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/divy2545/DSA-with-JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/divy2545/DSA-with-JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/divy2545/DSA-with-JAVA/tree/master/0146-lru-cache) |
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/divy2545/DSA-with-JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/divy2545/DSA-with-JAVA/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/divy2545/DSA-with-JAVA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/divy2545/DSA-with-JAVA/tree/master/0498-diagonal-traverse) |
@@ -586,6 +589,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/divy2545/DSA-with-JAVA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/divy2545/DSA-with-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0047-permutations-ii) |
 | [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |

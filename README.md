@@ -66,6 +66,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divy2545/DSA-with-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -383,6 +384,7 @@
 | [0239-sliding-window-maximum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/divy2545/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
+| [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Queue
 |  |
@@ -409,6 +411,7 @@
 | [0890-lemonade-change](https://github.com/divy2545/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/divy2545/DSA-with-JAVA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |

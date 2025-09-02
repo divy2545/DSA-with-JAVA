@@ -101,6 +101,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divy2545/DSA-with-JAVA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/divy2545/DSA-with-JAVA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/divy2545/DSA-with-JAVA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -316,6 +317,7 @@
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
@@ -467,6 +469,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divy2545/DSA-with-JAVA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
@@ -545,6 +548,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Breadth-First Search
 |  |
@@ -652,4 +656,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->

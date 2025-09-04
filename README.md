@@ -322,6 +322,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3830-find-closest-person](https://github.com/divy2545/DSA-with-JAVA/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |

@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/divy2545/DSA-with-JAVA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divy2545/DSA-with-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
@@ -361,6 +362,7 @@
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/divy2545/DSA-with-JAVA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -428,6 +430,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/divy2545/DSA-with-JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/divy2545/DSA-with-JAVA/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/divy2545/DSA-with-JAVA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/divy2545/DSA-with-JAVA/tree/master/0498-diagonal-traverse) |

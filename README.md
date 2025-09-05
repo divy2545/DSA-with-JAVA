@@ -301,6 +301,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/divy2545/DSA-with-JAVA/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/divy2545/DSA-with-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |
@@ -359,6 +360,7 @@
 | [0042-trapping-rain-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/divy2545/DSA-with-JAVA/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -660,6 +662,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/divy2545/DSA-with-JAVA/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Geometry
 |  |

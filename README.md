@@ -303,6 +303,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/divy2545/DSA-with-JAVA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/divy2545/DSA-with-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |
@@ -365,6 +366,7 @@
 | [0055-jump-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/divy2545/DSA-with-JAVA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -627,6 +629,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1013-fibonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/divy2545/DSA-with-JAVA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |

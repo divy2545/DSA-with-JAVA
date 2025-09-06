@@ -311,6 +311,7 @@
 | [0826-soup-servings](https://github.com/divy2545/DSA-with-JAVA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
+| [1013-fibonacci-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
@@ -332,6 +333,7 @@
 | [0231-power-of-two](https://github.com/divy2545/DSA-with-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/divy2545/DSA-with-JAVA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -625,6 +628,7 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1013-fibonacci-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1013-fibonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/divy2545/DSA-with-JAVA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Segment Tree
 |  |

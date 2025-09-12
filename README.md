@@ -260,6 +260,7 @@
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/divy2545/DSA-with-JAVA/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
+| [2887-sort-vowels-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3379-score-of-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -493,6 +494,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/divy2545/DSA-with-JAVA/tree/master/3748-sort-matrix-by-diagonals) |

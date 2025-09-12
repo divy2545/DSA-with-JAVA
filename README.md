@@ -262,6 +262,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
 | [2887-sort-vowels-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3379-score-of-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -333,6 +334,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/divy2545/DSA-with-JAVA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/divy2545/DSA-with-JAVA/tree/master/3830-find-closest-person) |
@@ -625,6 +627,7 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/divy2545/DSA-with-JAVA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/divy2545/DSA-with-JAVA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -696,4 +699,8 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

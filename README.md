@@ -159,6 +159,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/divy2545/DSA-with-JAVA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/2594-count-pairs-of-similar-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/divy2545/DSA-with-JAVA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/divy2545/DSA-with-JAVA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |

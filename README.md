@@ -82,6 +82,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/divy2545/DSA-with-JAVA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
@@ -296,6 +297,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/divy2545/DSA-with-JAVA/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2650-split-with-minimum-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2650-split-with-minimum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/2812-find-the-maximum-achievable-number) |
@@ -711,4 +714,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->

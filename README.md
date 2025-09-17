@@ -89,6 +89,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/divy2545/DSA-with-JAVA/tree/master/2476-check-distances-between-same-letters) |
@@ -153,6 +154,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
+| [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/divy2545/DSA-with-JAVA/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -264,6 +266,7 @@
 | [2365-percentage-of-letter-in-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/2365-percentage-of-letter-in-string) |
 | [2378-sender-with-largest-word-count](https://github.com/divy2545/DSA-with-JAVA/tree/master/2378-sender-with-largest-word-count) |
 | [2427-first-letter-to-appear-twice](https://github.com/divy2545/DSA-with-JAVA/tree/master/2427-first-letter-to-appear-twice) |
+| [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divy2545/DSA-with-JAVA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2476-check-distances-between-same-letters](https://github.com/divy2545/DSA-with-JAVA/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -308,6 +311,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/divy2545/DSA-with-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/divy2545/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/divy2545/DSA-with-JAVA/tree/master/0937-online-stock-span) |
+| [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -425,6 +429,7 @@
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
 | [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -671,6 +676,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics

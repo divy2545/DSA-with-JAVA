@@ -165,6 +165,7 @@
 | [2689-rearranging-fruits](https://github.com/divy2545/DSA-with-JAVA/tree/master/2689-rearranging-fruits) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/divy2545/DSA-with-JAVA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divy2545/DSA-with-JAVA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -312,6 +313,7 @@
 | [0303-range-sum-query-immutable](https://github.com/divy2545/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/divy2545/DSA-with-JAVA/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/divy2545/DSA-with-JAVA/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -430,6 +432,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/divy2545/DSA-with-JAVA/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -677,6 +680,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/divy2545/DSA-with-JAVA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics

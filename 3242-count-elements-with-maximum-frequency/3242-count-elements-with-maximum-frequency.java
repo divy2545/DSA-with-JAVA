@@ -7,9 +7,9 @@ class Solution {
             if(mp.get(nums[i]) > max) max = mp.get(nums[i]);
         }
         int ans = 0;
-        for (Map.Entry<Integer, Integer> entry : mp.entrySet()) {
-            if(entry.getValue() == max){
-                 ans += entry.getValue();
+        for (int freq : mp.values()) {
+            if(freq == max){
+                 ans += freq;
             }
         }
         return ans;

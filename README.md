@@ -132,6 +132,7 @@
 | [0041-first-missing-positive](https://github.com/divy2545/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/divy2545/DSA-with-JAVA/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/divy2545/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/divy2545/DSA-with-JAVA/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
@@ -344,6 +346,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/divy2545/DSA-with-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/divy2545/DSA-with-JAVA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/divy2545/DSA-with-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/divy2545/DSA-with-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divy2545/DSA-with-JAVA/tree/master/0326-power-of-three) |

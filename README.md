@@ -20,6 +20,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/divy2545/DSA-with-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/divy2545/DSA-with-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0137-single-number-ii) |
@@ -418,6 +419,7 @@
 | [0070-climbing-stairs](https://github.com/divy2545/DSA-with-JAVA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/divy2545/DSA-with-JAVA/tree/master/0198-house-robber) |

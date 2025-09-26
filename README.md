@@ -41,6 +41,7 @@
 | [0498-diagonal-traverse](https://github.com/divy2545/DSA-with-JAVA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0611-valid-triangle-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/divy2545/DSA-with-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divy2545/DSA-with-JAVA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -405,6 +407,7 @@
 | [0165-compare-version-numbers](https://github.com/divy2545/DSA-with-JAVA/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0611-valid-triangle-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/divy2545/DSA-with-JAVA/tree/master/0841-shortest-distance-to-a-character) |
 | [2442-number-of-arithmetic-triplets](https://github.com/divy2545/DSA-with-JAVA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2551-apply-operations-to-an-array) |
@@ -478,6 +481,7 @@
 | [0135-candy](https://github.com/divy2545/DSA-with-JAVA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/divy2545/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -527,6 +531,7 @@
 | [0347-top-k-frequent-elements](https://github.com/divy2545/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/divy2545/DSA-with-JAVA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |

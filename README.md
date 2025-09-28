@@ -56,6 +56,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
 | [1006-vowel-spellchecker](https://github.com/divy2545/DSA-with-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divy2545/DSA-with-JAVA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/divy2545/DSA-with-JAVA/tree/master/1293-three-consecutive-odds) |
@@ -361,6 +362,7 @@
 | [0867-new-21-game](https://github.com/divy2545/DSA-with-JAVA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/divy2545/DSA-with-JAVA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -486,6 +488,7 @@
 | [0611-valid-triangle-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/divy2545/DSA-with-JAVA/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/divy2545/DSA-with-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -537,6 +540,7 @@
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |

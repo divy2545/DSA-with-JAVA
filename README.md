@@ -59,6 +59,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divy2545/DSA-with-JAVA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/divy2545/DSA-with-JAVA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1293-three-consecutive-odds](https://github.com/divy2545/DSA-with-JAVA/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -440,6 +441,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/divy2545/DSA-with-JAVA/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/divy2545/DSA-with-JAVA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |

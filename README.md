@@ -370,6 +370,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/divy2545/DSA-with-JAVA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/divy2545/DSA-with-JAVA/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -478,6 +479,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/divy2545/DSA-with-JAVA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/divy2545/DSA-with-JAVA/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/divy2545/DSA-with-JAVA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/divy2545/DSA-with-JAVA/tree/master/2408-number-of-people-aware-of-a-secret) |

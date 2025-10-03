@@ -34,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/divy2545/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/divy2545/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/divy2545/DSA-with-JAVA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/0455-assign-cookies) |
@@ -463,6 +464,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/divy2545/DSA-with-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/divy2545/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
 | [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2023-design-movie-rental-system) |
@@ -514,6 +516,7 @@
 | [0063-unique-paths-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/divy2545/DSA-with-JAVA/tree/master/0221-maximal-square) |
+| [0407-trapping-rain-water-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/divy2545/DSA-with-JAVA/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -656,6 +659,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/divy2545/DSA-with-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |

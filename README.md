@@ -51,6 +51,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/divy2545/DSA-with-JAVA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/divy2545/DSA-with-JAVA/tree/master/0735-asteroid-collision) |
+| [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/divy2545/DSA-with-JAVA/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/divy2545/DSA-with-JAVA/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/divy2545/DSA-with-JAVA/tree/master/0890-lemonade-change) |
@@ -237,6 +238,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/divy2545/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/divy2545/DSA-with-JAVA/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/divy2545/DSA-with-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divy2545/DSA-with-JAVA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divy2545/DSA-with-JAVA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -471,6 +473,7 @@
 | [0347-top-k-frequent-elements](https://github.com/divy2545/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/divy2545/DSA-with-JAVA/tree/master/0692-top-k-frequent-words) |
+| [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -525,6 +528,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/divy2545/DSA-with-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/divy2545/DSA-with-JAVA/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/divy2545/DSA-with-JAVA/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -617,6 +621,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/divy2545/DSA-with-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
 | [1035-cousins-in-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
@@ -670,6 +675,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/divy2545/DSA-with-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
 | [1035-cousins-in-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
@@ -791,4 +797,8 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->

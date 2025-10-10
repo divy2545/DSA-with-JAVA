@@ -134,6 +134,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/divy2545/DSA-with-JAVA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/divy2545/DSA-with-JAVA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/divy2545/DSA-with-JAVA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/divy2545/DSA-with-JAVA/tree/master/3827-implement-router) |
 ## Hash Table
@@ -269,6 +270,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/divy2545/DSA-with-JAVA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## String
 |  |
 | ------- |
@@ -503,6 +505,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/divy2545/DSA-with-JAVA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |

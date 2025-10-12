@@ -84,6 +84,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divy2545/DSA-with-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/divy2545/DSA-with-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divy2545/DSA-with-JAVA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2023-design-movie-rental-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/divy2545/DSA-with-JAVA/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -467,6 +468,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divy2545/DSA-with-JAVA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/divy2545/DSA-with-JAVA/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/divy2545/DSA-with-JAVA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/divy2545/DSA-with-JAVA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |

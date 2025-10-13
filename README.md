@@ -67,6 +67,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/divy2545/DSA-with-JAVA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1293-three-consecutive-odds](https://github.com/divy2545/DSA-with-JAVA/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divy2545/DSA-with-JAVA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/divy2545/DSA-with-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divy2545/DSA-with-JAVA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divy2545/DSA-with-JAVA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/divy2545/DSA-with-JAVA/tree/master/1418-fair-distribution-of-cookies) |
@@ -161,6 +162,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/divy2545/DSA-with-JAVA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divy2545/DSA-with-JAVA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/divy2545/DSA-with-JAVA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/divy2545/DSA-with-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/divy2545/DSA-with-JAVA/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/divy2545/DSA-with-JAVA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -288,6 +290,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/divy2545/DSA-with-JAVA/tree/master/0841-shortest-distance-to-a-character) |
 | [1006-vowel-spellchecker](https://github.com/divy2545/DSA-with-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/divy2545/DSA-with-JAVA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/divy2545/DSA-with-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/divy2545/DSA-with-JAVA/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divy2545/DSA-with-JAVA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/divy2545/DSA-with-JAVA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -577,6 +580,7 @@
 | [0807-custom-sort-string](https://github.com/divy2545/DSA-with-JAVA/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/divy2545/DSA-with-JAVA/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/divy2545/DSA-with-JAVA/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/divy2545/DSA-with-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/divy2545/DSA-with-JAVA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/divy2545/DSA-with-JAVA/tree/master/1970-sorting-the-sentence) |

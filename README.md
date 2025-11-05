@@ -132,6 +132,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/divy2545/DSA-with-JAVA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/divy2545/DSA-with-JAVA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -194,6 +195,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/divy2545/DSA-with-JAVA/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/divy2545/DSA-with-JAVA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/divy2545/DSA-with-JAVA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/divy2545/DSA-with-JAVA/tree/master/3678-design-task-manager) |
@@ -220,6 +222,7 @@
 | [2478-longest-nice-subarray](https://github.com/divy2545/DSA-with-JAVA/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/divy2545/DSA-with-JAVA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/divy2545/DSA-with-JAVA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
@@ -501,6 +504,7 @@
 | [2023-design-movie-rental-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/divy2545/DSA-with-JAVA/tree/master/2429-design-a-food-rating-system) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/divy2545/DSA-with-JAVA/tree/master/3678-design-task-manager) |
 ## Monotonic Queue

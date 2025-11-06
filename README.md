@@ -144,6 +144,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/divy2545/DSA-with-JAVA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/divy2545/DSA-with-JAVA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/divy2545/DSA-with-JAVA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/divy2545/DSA-with-JAVA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/divy2545/DSA-with-JAVA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divy2545/DSA-with-JAVA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -507,6 +509,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/divy2545/DSA-with-JAVA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/divy2545/DSA-with-JAVA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -662,6 +665,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -717,6 +721,7 @@
 | [1254-deepest-leaves-sum](https://github.com/divy2545/DSA-with-JAVA/tree/master/1254-deepest-leaves-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divy2545/DSA-with-JAVA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -784,6 +789,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/divy2545/DSA-with-JAVA/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/divy2545/DSA-with-JAVA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -837,4 +843,9 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/divy2545/DSA-with-JAVA/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/divy2545/DSA-with-JAVA/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
